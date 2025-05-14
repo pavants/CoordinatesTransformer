@@ -1,9 +1,9 @@
 # Coordinate Transformer
-## Heading 2 text
 
-This application is useful to convert coordinates from GPS to Gauss-Boaga
+This application is useful to convert coordinates from GPS to Gauss-Boaga and vice-versa
 
-## Installation 
+## Installation
+
 python -m venv venv
->activate
+activate
 pip install -r requirements.txt
